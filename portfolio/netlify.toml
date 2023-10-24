@@ -1,3 +1,9 @@
 [build]
   command = "npm run build"
   publish = "build"
+
+[functions]
+  directory = "netlify/functions"
+
+[build.environment]
+  REACT_APP_RUNTIME = "Not set"
