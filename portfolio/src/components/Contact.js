@@ -3,24 +3,24 @@ import React from 'react';
 const Contact = () => {
   return (
     <section>
-    <div class="columns is-multiline">
-        <div class="column is-one-third">
-            <div id="contact" class="box"><h1 class="title is-1"><strong>Contact Me</strong></h1>
-            </div>
-            </div>  
-            <div class="column">
-                <div class="box">
-                    <div class="content">
-                    <ol type="1">
-                        <ul>Aliza Sharma</ul> 
-                        <ul> <a href="https://github.com/AlizaSharma"> Git Hub Repo</a>
-                           </ul>
-                    </ol>
-                    </div>
-                </div>
-            </div>
+      <div className="columns is-multiline">
+        <div className="column is-one-third">
+          <div id="contact" className="box">
+            <h1 className="title is-1"><strong>Contact Me</strong></h1>
+          </div>
         </div>
-   </section>
+        <div className="column">
+          <div className="box">
+            <div className="content">
+              <ul>
+                <li>Aliza Sharma</li>
+                <li><a href="https://github.com/AlizaSharma">GitHub Repo</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
   );
 }
 
