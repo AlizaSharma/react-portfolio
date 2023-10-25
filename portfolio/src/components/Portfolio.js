@@ -12,14 +12,14 @@ const Portfolio = () => {
         <div className="column">
           <div className="box">
             <a href="https://alizasharma.github.io/mood-to-music/">
-              <img src="./assets/MoodToMusic.png" alt="webpage image" className="is-fullwidth" />
+              <img src="./assets/MoodToMusic.png" className="is-fullwidth" />
             </a>
           </div>
         </div>
         <div className="column">
           <div className="box">
             <a href="https://infinite-crag-92779-668e16ae735a.herokuapp.com/">
-              <img src="./assets/social-sniffers.png" alt="webpage image" className="is-fullwidth" />
+              <img src="./assets/social-sniffers.png" className="is-fullwidth" />
             </a>
           </div>
         </div>
