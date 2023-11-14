@@ -25,8 +25,8 @@ const Portfolio = () => {
         </div>
         <div className="column">
           <div className="box">
-            <a href="https://infinite-crag-92779-668e16ae735a.herokuapp.com/">
-              <img src="./assets/social-sniffers.png" alt="" className="is-fullwidth" />
+            <a href="https://keepitkandy-131b285227bb.herokuapp.com/">
+              <img src="./assets/KeepItKandy.png" alt="" className="is-fullwidth" />
             </a>
           </div>
         </div>
