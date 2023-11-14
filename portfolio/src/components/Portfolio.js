@@ -23,7 +23,14 @@ const Portfolio = () => {
             </a>
           </div>
         </div>
-      </div>
+        <div className="column">
+          <div className="box">
+            <a href="https://infinite-crag-92779-668e16ae735a.herokuapp.com/">
+              <img src="./assets/social-sniffers.png" alt="" className="is-fullwidth" />
+            </a>
+          </div>
+        </div>
+      </div> 
     </section>
   );
 }
